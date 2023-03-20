@@ -28,11 +28,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Created with Imgur
+
+https://imgur.com/ZsYhtXs
 
 GIF created with ...  
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/52749888/226459395-d004c1ad-a02e-4874-b0a9-2d3505bf309d.gif)
 
 
 ## Notes
