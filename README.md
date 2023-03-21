@@ -32,10 +32,11 @@ Here's a walkthrough of implemented user stories:
 
 Created with Imgur
 
-https://imgur.com/ZsYhtXs
+https://imgur.com/a/KxPmhUm
 
 GIF created with ...  
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/52749888/226459395-d004c1ad-a02e-4874-b0a9-2d3505bf309d.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/52749888/226670177-8ad707d5-50f5-4b83-9c96-d084af429068.gif)
+
 
 
 ## Notes
